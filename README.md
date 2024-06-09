@@ -9,16 +9,15 @@ Please follow on my website and youtube channel for more updates.
 - 💾 [shaikhwaseem.com](https://shaikhwaseem.com)
 - 💾 [YouTube Channel](https://www.youtube.com/@waseeemuddin)
 
+## Architecture Diagram 
 
-WanderLust is a simple MERN travel blog website ✈ This project is aimed to help people to contribute in open source, upskill in react and also master git.
+![diagram 01](images/diagram.png)
+
+WanderLust is a simple MERN travel blog website ✈ 
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 
 
-## Architecture Diagram 
-
-
-![diagram 01](images/diagram.png)
 
 
 ## Steps by Step guidelines
