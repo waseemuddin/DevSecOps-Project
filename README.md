@@ -12,6 +12,7 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 
 Please do follow the below steps in order to execute this project.
 
-[diagram 01](images/diagram.png)
+![diagram 01](images/diagram.png)
+![Architecture Diagram](img/01.png)
 
 
