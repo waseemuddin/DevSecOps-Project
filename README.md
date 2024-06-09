@@ -2,6 +2,13 @@
 
 # Wanderlust - Your Ultimate Travel Blog 🌍✈️
 
+Project Video Tutoria, please visit:
+- 💾 [Wanderlust - DevSecOps Project](https://youtu.be/hXO-T_pcXkY)
+
+Please follow on my website and youtube channel for more updates.
+- 💾 [shaikhwaseem.com](https://shaikhwaseem.com)
+- 💾 [YouTube Channel](https://www.youtube.com/@waseeemuddin)
+
 
 WanderLust is a simple MERN travel blog website ✈ This project is aimed to help people to contribute in open source, upskill in react and also master git.
 
