@@ -91,7 +91,8 @@ save button
 
 30 Now goto pipeline scrip and write code →
  
-Pipeline Code 
+ 
+ Pipeline Code 
 
 pipeline{
     agent any
@@ -136,14 +137,3 @@ pipeline{
         }
     }
 }
-now goto Build Now button and click Build Now
-
-31. deployment 5173 goto SG and add post 5173
-
-32. Run <ec2-ip>:5173
-
-33. change ip address to domain add Cname record DNS
-
-34. Add SG : 5000 port
-
-```
