@@ -26,7 +26,7 @@ Please do follow the below steps in order to execute this project.
 
 ```shell
 
-1. EC2 Machine t2 large recommanded 
+1. EC2 Machine t2 large recommended 
 
 2. Connect ec2 machine
 
