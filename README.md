@@ -8,13 +8,13 @@
 <hr>
 
 <div>
-  <h2>🔗 Important Links</h2>
+  <h2>🔗 Important Links.</h2>
 </div>
 
 <table border="1">
   <tr>
       <td><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/5ca6c472-5c73-41b2-a2df-389cc3e14881.png" alt="Discord Logo" width="50"></td>
-      <td><a href="https://discord.gg/FEKasAdCrG"> Join our project's Discord Channel here </a></td>
+      <td><a href="https://discord.gg/FEKasAdCrG"> Join our project's Discord Channel here.</a></td>
   </tr>
   <tr>
       <td><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/ffda08c0-3c7a-46b0-b7ac-6bc374184ec7.png" alt="Figma Logo" width="50"></td>
