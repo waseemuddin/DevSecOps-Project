@@ -6,7 +6,6 @@
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 
 <hr>
-
 <div>
   <h2>🔗 Important Links.</h2>
 </div>
@@ -39,7 +38,6 @@ At its core, this project embodies two important aims:
 
 _We want you to get the most out of this project—it's all about learning, contributing, and growing in the open-source community.
 <hr>
-
 <div>
   <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/1ee5934a-27be-4502-a7bf-e6a8c78fe5a3" width="35" height="35"> Features</h2>
 </div>
