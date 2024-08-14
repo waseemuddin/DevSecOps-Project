@@ -7,7 +7,7 @@
 
 <hr>
 <div>
-  <h2>🔗 Important Links.</h2>
+  <h2>🔗 Important Links</h2>
 </div>
 
 <table border="1">
